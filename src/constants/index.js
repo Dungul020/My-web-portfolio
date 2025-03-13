@@ -19,6 +19,7 @@ import {
   zormor,
   UWC,
   mychat,
+  todoapp,
   nyambichick,
   threejs,
 } from "../assets";
@@ -196,6 +197,32 @@ const projects = [
     image: mychat,
     source_code_link: "https://github.com/Dungul020/My-Chat-App",
   },
+
+  {
+    name: "Todo-app",
+    description:
+      "A mern stack todo-list app that allows individual to plan out their task and mark them as complete if completed to avoid confusion",
+    tags: [
+      {
+        name: "react.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "firebase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: todoapp,
+    source_code_link: "https://github.com/Dungul020/Todo-list",
+  },
+
+
+
+
   
   {
     name: "Nyambi Chick",

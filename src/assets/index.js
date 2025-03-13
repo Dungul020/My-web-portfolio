@@ -25,6 +25,7 @@ import WCG from "./company/WCG.png";
 import zormor from "./company/zormor.png";
 
 import mychat from "./mychat.png";
+import todoapp from "./todoapp.png"
 import jobit from "./jobit.png";
 import nyambichick from "./nyambichick.png";
 
@@ -54,6 +55,7 @@ export {
   WCG,
   zormor,
   mychat,
+  todoapp,
   jobit,
   nyambichick,
 };
