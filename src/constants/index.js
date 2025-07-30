@@ -140,17 +140,17 @@ const experiences = [
       "Worked Under Agile methodology.",
     ],
   },
-  {
-    title: "PES Intern",
-    company_name: "University of the Western Cape",
-    icon: UWC,
-    iconBg: "#383E56",
-    date: "June 2024 - August 2024",
-    points: [
-      "Assisted the Oral Hygiene department with Admin and IT related task.",
-      "Managed Ikamva project in Khayelitsha that was founded by UWC Oral Hygiene Department.", // Consider adding more detail if possible
-    ],
-  },
+  // {
+  //   title: "PES Intern",
+  //   company_name: "University of the Western Cape",
+  //   icon: UWC,
+  //   iconBg: "#383E56",
+  //   date: "June 2024 - August 2024",
+  //   points: [
+  //     "Assisted the Oral Hygiene department with Admin and IT related task.",
+  //     "Managed Ikamva project in Khayelitsha that was founded by UWC Oral Hygiene Department.", // Consider adding more detail if possible
+  //   ],
+  // },
 ];
 
 const testimonials = [
