@@ -197,28 +197,28 @@ const projects = [
     live_demo_link: "https://my-chat-app-prod.onrender.com", 
   },
 
-  {
-    name: "Todo-app",
-    description:
-      "A mern stack todo-list app that allows individual to plan out their task and mark them as complete if completed to avoid confusion.Click the play icon to interact with the live version.", // "individual" -> "individuals"
-    tags: [
-      {
-        name: "react.js",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "firebase", 
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: todoapp,
-    source_code_link: "https://github.com/Dungul020/Todo-list",
-    live_demo_link: "https://my-to-do-app-fqk3.onrender.com",
-  },
+  // {
+  //   name: "Todo-app",
+  //   description:
+  //     "A mern stack todo-list app that allows individual to plan out their task and mark them as complete if completed to avoid confusion.Click the play icon to interact with the live version.", // "individual" -> "individuals"
+  //   tags: [
+  //     {
+  //       name: "react.js",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "firebase", 
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "css",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: todoapp,
+  //   source_code_link: "https://github.com/Dungul020/Todo-list",
+  //   live_demo_link: "https://my-to-do-app-fqk3.onrender.com",
+  // },
 
   {
     name: "Nyambi Chick",
