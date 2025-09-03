@@ -116,14 +116,13 @@ const experiences = [
     company_name: "Western Cape Government",
     icon: WCG,
     iconBg: "#383E56",
-    date: "August 2024 - Present", // As of Apr 2025, this might need updating if still current
+    date: "August 2024 - August 2025", 
     points: [
       "WCG portal Contribution to the development of new Drupal 10 based portal for the WCG websites which includes subsites for various department. The project involved upgrading from Drupal 7 to Drupal 10, focusing on implementing a modern design and improved functionality.", // Sentence structure could be improved slightly
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Assisted in in writing unit tests and debugging issues to enhance web performance.", // "in in" typo
+      "Assisted in  writing unit tests and debugging issues to enhance web performance.",
       "Participating in code reviews and providing constructive feedback to other developers.",
-      " Optimized backend services and implemented new features across Western Cape
-Government websites using the LAMP stack (Linux, Apache, MySQL, PHP)",
+      " Optimized backend services and implemented new features across Western Cape Government websites using the LAMP stack (Linux, Apache, MySQL, PHP)",
       "Gained experience working in an Agile environment and using version control. (Git)",
     ],
   },
@@ -148,13 +147,10 @@ Government websites using the LAMP stack (Linux, Apache, MySQL, PHP)",
      iconBg: "#383E56",
      date: "Feb 2023 - Feb 2024",
     points: [
-       "Contributed to developing a web platform using MERN stack (MongoDB, Express, React, Node)
-",
-       " Was responsible for web API development and maintenance (REST)
-", 
+       "Contributed to developing a web platform using MERN stack (MongoDB, Express, React, Node)",
+       " Was responsible for web API development and maintenance (REST)", 
   "Handled testing of the platform and other software.",
-  "Utilize Git for version Control.
-",
+  "Utilize Git for version Control.",
     ],
    },
 ];
