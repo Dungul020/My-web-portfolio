@@ -167,7 +167,7 @@ const testimonials = [
   {
     testimonial:
       "I've never met a web developer who truly cares about their clients' success like Kwenzo does.", // Consistent capitalization ("Kwenzo")
-    name: "Tumelo Petsane",
+    name: "Jeremy Brander",
     designation: "Software developer",
     company: "Western Cape Government",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
