@@ -140,19 +140,19 @@ const experiences = [
       "Worked Under Agile methodology.",
     ],
   },
-  {
-     title: "Junior Software developer Volunteer(Remote)",
-     company_name: "Captain Doregos",
-     icon: ,
-     iconBg: "#383E56",
-     date: "Feb 2023 - Feb 2024",
-    points: [
-       "Contributed to developing a web platform using MERN stack (MongoDB, Express, React, Node)",
-       " Was responsible for web API development and maintenance (REST)", 
-  "Handled testing of the platform and other software.",
-  "Utilize Git for version Control.",
-    ],
-   },
+  // {
+  //    title: "Junior Software developer Volunteer(Remote)",
+  //    company_name: "Captain Doregos",
+  //    icon: ,
+  //    iconBg: "#383E56",
+  //    date: "Feb 2023 - Feb 2024",
+  //   points: [
+  //      "Contributed to developing a web platform using MERN stack (MongoDB, Express, React, Node)",
+  //      " Was responsible for web API development and maintenance (REST)", 
+  // "Handled testing of the platform and other software.",
+  // "Utilize Git for version Control.",
+  //   ],
+  //  },
 ];
 
 const testimonials = [
