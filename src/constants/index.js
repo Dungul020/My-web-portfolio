@@ -122,7 +122,8 @@ const experiences = [
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Assisted in in writing unit tests and debugging issues to enhance web performance.", // "in in" typo
       "Participating in code reviews and providing constructive feedback to other developers.",
-      "Utilize development tools like Drupal, ubuntu server, Virtual Machines and LAMP stack",
+      " Optimized backend services and implemented new features across Western Cape
+Government websites using the LAMP stack (Linux, Apache, MySQL, PHP)",
       "Gained experience working in an Agile environment and using version control. (Git)",
     ],
   },
@@ -133,24 +134,29 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "May 2024 - September 2024",
     points: [
-      "Developed backend features for a web application using Typescript, Graphql and Nestjs.",
+      "Developed backend features for a web application using Typescript, Graphql, Nodejs, and Nestjs.",
       "Collaborated with cross-functional teams to design, develop, implement , and deploy scalable software solutions for the Zormor platform.", // Extra space before comma
       "Implemented RESTful APIs and improved database performance.",
       "Participating in code reviews and providing constructive feedback to other developers.",
       "Worked Under Agile methodology.",
     ],
   },
-  // {
-  //   title: "PES Intern",
-  //   company_name: "University of the Western Cape",
-  //   icon: UWC,
-  //   iconBg: "#383E56",
-  //   date: "June 2024 - August 2024",
-  //   points: [
-  //     "Assisted the Oral Hygiene department with Admin and IT related task.",
-  //     "Managed Ikamva project in Khayelitsha that was founded by UWC Oral Hygiene Department.", // Consider adding more detail if possible
-  //   ],
-  // },
+  {
+     title: "Junior Software developer Volunteer(Remote)",
+     company_name: "Captain Doregos",
+     icon: ,
+     iconBg: "#383E56",
+     date: "Feb 2023 - Feb 2024",
+    points: [
+       "Contributed to developing a web platform using MERN stack (MongoDB, Express, React, Node)
+",
+       " Was responsible for web API development and maintenance (REST)
+", 
+  "Handled testing of the platform and other software.",
+  "Utilize Git for version Control.
+",
+    ],
+   },
 ];
 
 const testimonials = [
