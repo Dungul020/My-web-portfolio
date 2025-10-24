@@ -178,7 +178,7 @@ const projects = [
   {
     name: "My - Chat",
     description:
-      "Web-based platform that allows users to chat with other users and manage chats.Hit the play icon to dive into the live version",
+      "MyChat is a full-stack chat application built using the MERN stack (MongoDB, Express.js, React, and Node.js), designed to provide a secure and seamless real-time messaging experience. The app features a responsive chat interface where authenticated users can engage in conversations, ensuring that only verified individuals have access to the platform. It includes fully functional login and signup pages with proper authentication mechanisms, safeguarding user data and maintaining privacy. MyChat offers a clean and intuitive user interface, making it easy for users to navigate and communicate efficiently.",
     tags: [
       {
         name: "react",
