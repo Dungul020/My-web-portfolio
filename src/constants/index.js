@@ -116,7 +116,7 @@ const experiences = [
     company_name: "Western Cape Government",
     icon: WCG,
     iconBg: "#383E56",
-    date: "August 2024 - Present", 
+    date: "August 2024 - August 2025", 
     points: [
       "WCG portal Contribution to the development of new Drupal 10 based portal for the WCG websites which includes subsites for various department. The project involved upgrading from Drupal 7 to Drupal 10, focusing on implementing a modern design and improved functionality.", // Sentence structure could be improved slightly
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
