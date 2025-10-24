@@ -223,7 +223,7 @@ const projects = [
   // },
 
   {
-    name: "Nyambi Chick",
+    name: "Survival Serious",
     description:
       "An ecommerce website that allow brand owners to host their product in the platform and it also allows users to browse and place their orders on the platform", // "allow" -> "allows"
     tags: [
@@ -232,16 +232,17 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "firebase", // Verify backend tech used
+        name: "Mongodb", // Verify backend tech used
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Express",
         color: "pink-text-gradient",
       },
     ],
     image: nyambichick,
     source_code_link: "https://github.com/Dungul020/Responsive-e-commerce-website",
+    live_demo_link: "https://survivor-serious-artifact-1.onrender.com", 
   },
 ];
 
