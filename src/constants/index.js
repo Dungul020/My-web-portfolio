@@ -241,7 +241,7 @@ const projects = [
       },
     ],
     image: nyambichick,
-    source_code_link: "https://github.com/Dungul020/Responsive-e-commerce-website",
+    source_code_link: "#",
     live_demo_link: "https://survivor-serious-artifact-1.onrender.com", 
   },
 ];
