@@ -225,7 +225,7 @@ const projects = [
   {
     name: "Survival Serious",
     description:
-      "An ecommerce website that allow brand owners to host their product in the platform and it also allows users to browse and place their orders on the platform", // "allow" -> "allows"
+      "Survival Serious is a compassionate, data-driven Full stack web application designed to collect, preserve, and analyze real recovery stories from individuals who have successfully overcome substance use disorders. By creating a safe, anonymous space for people to share their experiences, we're building a comprehensive database of hope, insights, and evidence-based recovery pathways that can inspire and guide others on their journey to sobriety", // "allow" -> "allows"
     tags: [
       {
         name: "react.js",
