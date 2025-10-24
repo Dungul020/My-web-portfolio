@@ -116,7 +116,7 @@ const experiences = [
     company_name: "Western Cape Government",
     icon: WCG,
     iconBg: "#383E56",
-    date: "August 2024 - August 2025", 
+    date: "August 2024 - Present", 
     points: [
       "WCG portal Contribution to the development of new Drupal 10 based portal for the WCG websites which includes subsites for various department. The project involved upgrading from Drupal 7 to Drupal 10, focusing on implementing a modern design and improved functionality.", // Sentence structure could be improved slightly
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -140,19 +140,21 @@ const experiences = [
       "Worked Under Agile methodology.",
     ],
   },
-  // {
-  //    title: "Junior Software developer Volunteer(Remote)",
-  //    company_name: "Captain Doregos",
-  //    icon: ,
-  //    iconBg: "#383E56",
-  //    date: "Feb 2023 - Feb 2024",
-  //   points: [
-  //      "Contributed to developing a web platform using MERN stack (MongoDB, Express, React, Node)",
-  //      " Was responsible for web API development and maintenance (REST)", 
-  // "Handled testing of the platform and other software.",
-  // "Utilize Git for version Control.",
-  //   ],
-  //  },
+  ///
+  {
+     title: "Junior Software developer Volunteer(Remote)",
+     company_name: "Eezy technologies",
+     icon: "",
+     iconBg: "#383E56",
+     date: "Feb 2023 - Feb 2024",
+    points: [
+       "Contributed to developing a web platform using MERN stack (MongoDB, Express, React, Node)",
+       " Was responsible for web API development and maintenance (REST)", 
+  "Handled testing of the platform and other software.",
+  "Utilize Git for version Control.",
+    ],
+   },
+  //
 ];
 
 const testimonials = [
