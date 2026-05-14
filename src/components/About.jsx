@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript ,CSS,HTML, C++ and
+        I'm a skilled software developer with 3 years of hands on experience in TypeScript ,CSS,HTML, C++ and
         JavaScript, and have expertise in frameworks like React, Node.js,Nest.js,Bootstrap,JQuery.js and
         Three.js. I'm a quick learner and collaborate closely with clients to
         create efficient, scalable, and user-friendly solutions that solve
