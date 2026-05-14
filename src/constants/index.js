@@ -41,11 +41,11 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "LAMP Stack Developer",
     icon: web,
   },
   {
-    title: "React  Developer",
+    title: "MERN Stack Developer",
     icon: mobile,
   },
   {
@@ -116,7 +116,7 @@ const experiences = [
     company_name: "Western Cape Government",
     icon: WCG,
     iconBg: "#383E56",
-    date: "August 2024 - Present",
+    date: "August 2024 - August 2026",
     points: [
       "WCG portal Contribution to the development of new Drupal 10 based portal for the WCG websites which includes subsites for various department. The project involved upgrading from Drupal 7 to Drupal 10, focusing on implementing a modern design and improved functionality.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -141,14 +141,14 @@ const experiences = [
     ],
   },
   {
-    title: "PES Intern",
-    company_name: "University of the Western Cape",
+    title: "Software Developer Volunteer",
+    company_name: "Eezy technologies",
     icon: UWC,
     iconBg: "#383E56",
-    date: "June 2024 - August 2024",
+    date: "Feb 2023 - Feb 2024",
     points: [
-      "Assisted the Oral Hygiene department with Admin and IT related task.",
-      "Managed Ikamva project in Khayelitsha that was founded by UWC Oral Hygiene Department.",
+      "Built a web platform using the MERN stack (MongoDB, Express, React, Node.js)",
+      "Developed and maintained RESTful APIs.",
       
     ],
   },
