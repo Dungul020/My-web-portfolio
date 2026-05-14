@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-      Experienced and results-driven Software developer graduate with over 2 years of hands-on expertise
+      Experienced and results-driven Software developer graduate with over 3 years of hands-on expertise
 across both front-end and back-end development. Fluent in programming languages like HTML, CSS,
 JavaScript, TypeScript, PHP, and a wide range of databases and web technologies. Proven ability to
 design, develop, test, and maintain robust software solutions using modern frameworks and tools.
