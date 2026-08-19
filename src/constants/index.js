@@ -45,7 +45,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React  Developer", // Double space here, might want to fix
+    title: "MERN Stack Developer", // Double space here, might want to fix
     icon: mobile,
   },
   {
@@ -142,7 +142,7 @@ const experiences = [
   },
   ///
   {
-     title: "Junior Software developer Volunteer(Remote)",
+     title: "Junior Software developer(Remote)",
      company_name: "Eezy technologies",
      icon: "",
      iconBg: "#383E56",
@@ -161,7 +161,7 @@ const testimonials = [
   {
     testimonial:
       "I had worked with kwenzo in completing many projects at the university he is the hardworking person I know and I like about him the fact that he dedicate himself to what he is doing .", // "kwenzo" capitalization, punctuation needed
-    name: "Sihle Joseph",
+    name: "Phalo magqaza",
     designation: "Student",
     company: "UWC",
     image: "https://randomuser.me/api/portraits/men/4.jpg",
@@ -244,7 +244,7 @@ const projects = [
     ],
     image: nyambichick,
     source_code_link: "#",
-    live_demo_link: "https://survivor-serious-artifact-1.onrender.com", 
+    live_demo_link: "https://survivor-serious-liart.vercel.app/", 
   },
 ];
 
