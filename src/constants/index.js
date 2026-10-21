@@ -220,7 +220,7 @@ const projects = [
       color: "pink-text-gradient",
     },
   ],
-   image: sty;ist,
+   image: stylist,
 //   //   source_code_link: "https://github.com/Dungul020/Todo-list",
    live_demo_link: "https://stylist-barber.vercel.app/",
  },
