@@ -29,6 +29,7 @@ import mychat from "./mychat.png";
 import todoapp from "./todoapp.png"
 import jobit from "./jobit.png";
 import nyambichick from "./nyambichick.png";
+import stylist from "./stylist.jpg";
 
 export {
   logo,
@@ -60,4 +61,5 @@ export {
   todoapp,
   jobit,
   nyambichick,
+  stylist,
 };
