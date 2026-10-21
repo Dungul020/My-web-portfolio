@@ -141,7 +141,7 @@ const experiences = [
     ],
   },
   {
-    title: "Software Developer Volunteer",
+    title: "Junior Software Developer",
     company_name: "Eezy technologies",
     icon: UWC,
     iconBg: "#383E56",
