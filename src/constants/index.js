@@ -205,8 +205,7 @@ const projects = [
 {
   name: "Stylist-barber",
    description:
-    "Full-stack barbershop website with a multi-step booking system, real-time availability, and Google/Apple Calendar (.ics) integration. Built with React, Express, MongoDB and Vite
- "
+    "Full-stack barbershop website with a multi-step booking system, real-time availability, and Google/Apple Calendar (.ics) integration. Built with React, Express, MongoDB and Vite "
   tags: [
     {
      name: "react.js",
